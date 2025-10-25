@@ -1,6 +1,6 @@
 # Trading Journal API (Django + DRF)
 
-This project mirrors your Flask Trading Journal's core CRUD in **Django REST Framework**, using the Week‑1 workshop pattern.
+This Django REST API provides CRUD endpoints to manage trades, assets, and tags for a quant-style trading journal.
 
 ## Quickstart
 
